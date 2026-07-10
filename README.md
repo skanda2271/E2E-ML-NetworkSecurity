@@ -217,3 +217,7 @@ python main.py
 This README is designed as a complete guide for interviews and technical walkthroughs of the project.
 
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
