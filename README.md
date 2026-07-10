@@ -216,8 +216,26 @@ python main.py
 
 This README is designed as a complete guide for interviews and technical walkthroughs of the project.
 
+Docker Setup In EC2 commands to be Executed
+#optinal
+
+sudo apt-get update -y
+
+sudo apt-get upgrade
+
+#required
+
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sudo sh get-docker.sh
+
+sudo usermod -aG docker ubuntu
+
+newgrp docker
+
 
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+![alt text](image-5.png)
 
